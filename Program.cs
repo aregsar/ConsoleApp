@@ -5,7 +5,7 @@ Print("Hello World!");
 foreach (var arg in args)
     Print(arg);
 
-Console.WriteLine("Type text to print or hit enter to exit");
+Console.WriteLine("Type text to print or hit enter to exittttttttttttttttttttttttttt");
 
 while (true)
 {
